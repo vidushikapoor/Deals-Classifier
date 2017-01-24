@@ -1,0 +1,2 @@
+# Introduction
+> This is a natural language processing based project written in python. The aim of this project is to assess the classification capability of 2 machine learning algorithms - KNN and SVM (from scikit-learn library) on text data (labeled) in the form of online deal statements obtained from this [source](https://github.com/john136/exercises/tree/master/ml/data) processed using python's nltk library.
